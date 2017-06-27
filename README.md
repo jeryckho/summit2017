@@ -23,3 +23,4 @@ Monitoring
 Déploiement Blue/Green
 
 Code Star
+Packer => créer AMI
