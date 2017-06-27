@@ -5,3 +5,7 @@
 
 GameDay
 
+Infrastructure as Code
+
+Git Terraform 
+Git Continous Delivery
