@@ -15,3 +15,5 @@
 
 # BigData en ServerLess
 * Analytics
+* Aws lambda power tuning
+* Aws step functions
