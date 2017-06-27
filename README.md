@@ -17,3 +17,9 @@
 * Analytics
 * Aws lambda power tuning
 * Aws step functions
+
+Responsabilité du code
+Monitoring
+Déploiement Blue/Green
+
+Code Star
