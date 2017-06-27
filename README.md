@@ -3,9 +3,9 @@
 * AWS Rekognition => vision
 * AWS Lex => Chatbot
 
-GameDay
+# GameDay
+* Infrastructure as Code
 
-Infrastructure as Code
-
-Git Terraform 
-Git Continous Delivery
+# IaC
+* Git Terraform 
+* Git Continous Delivery
